@@ -1,0 +1,9 @@
+.tabela {
+    width: 100%;
+    margin: 10px;
+    height: 30;
+    display: flex;
+    justify-content: center;
+    background-color: #a50aa5;
+
+}
